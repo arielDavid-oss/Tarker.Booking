@@ -1,0 +1,6 @@
+@Tarker.Booking.Api_HostAddress = http://localhost:5236
+
+GET {{Tarker.Booking.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
